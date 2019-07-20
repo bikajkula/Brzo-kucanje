@@ -33,10 +33,7 @@ function proveriUnos(){
 				var y=parseFloat(document.getElementById('kraj').innerHTML);
 				document.getElementById('vreme').innerHTML=(y-x)/1000 + " sekundi";
 				document.getElementById("rezultat").innerHTML="KRAJ";
-				console.log(x);
-				console.log(y);
 			}
-			console.log(n);
 		}
 		else{
 			document.getElementById("rezultat").innerHTML="NETACNO! POKUSAJ PONOVO!";
