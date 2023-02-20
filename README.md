@@ -1,5 +1,5 @@
-# Brzo-kucanje
-Jednostavna JavaScript aplikacija za brzo kucanje inspirisana Turshijinom ( type.turshija.com ).
+# Fast-typing
+A simple JavaScript fast typing app inspired by Turshija ( type.turshija.com ).
 
-Od odredjenog niza reci nasumice se bira 20 .
-Reci se potvrdjuju razmakom (SPACE taster).
+20 are randomly selected from a certain sequence of words.
+Words are confirmed with a space (SPACE key).
